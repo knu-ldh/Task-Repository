@@ -1,2 +1,5 @@
 # task_repo
-Task Repository
+* 학교: 군산대학교
+* 학과: 소프트웨어융합공학과
+* 이름: 이다희
+* 과목명: IoT기반 Android 프로그래밍
